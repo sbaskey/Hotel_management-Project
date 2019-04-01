@@ -1,7 +1,7 @@
 Hotel_management-Project
 
 
-Group members
+Other members contributed to this Project.
 
 Sachin Hansdah
 
