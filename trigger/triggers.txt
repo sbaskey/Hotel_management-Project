@@ -1,0 +1,9 @@
+when ever a customer order food or use cab or vehicle bill table will be updated for that customer
+
+
+when a customer leave the hotel then that room will be labeled as non occupied
+
+when a customer cancels a reservation then reserved room will be non occupied
+
+
+

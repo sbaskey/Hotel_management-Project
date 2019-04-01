@@ -1,0 +1,2 @@
+function to calculte the total bill for a customer
+function to 

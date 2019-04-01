@@ -1,0 +1,19 @@
+customer can view the list of hotels in a particular city.
+customer can view the facilities available in a hotel
+customer can view the rating of  hotels
+customer can view the price of a room in a hotel
+customer can book the cab or vehicle detail in a hotel
+customer can view the food in the food table
+customer can view the bill table from the database
+
+
+
+
+
+
+hotel manger can view the bill table
+hotel manger can view the rating table
+hotel manger can view room availibility in a hotel
+hotel manger can view every details of a customer
+hotel manger can view employee details of hotels
+
